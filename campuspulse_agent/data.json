@@ -1,0 +1,13 @@
+{
+  "courses": [
+    {"name": "Operating Systems", "day": "Monday", "start": "09:00", "end": "10:50", "room": "C1.2"},
+    {"name": "Digital Systems", "day": "Tuesday", "start": "13:00", "end": "14:50", "room": "C2.1"},
+    {"name": "Probability and Statistics", "day": "Wednesday", "start": "11:00", "end": "12:50", "room": "B1.5"}
+  ],
+  "assignments": [
+    {"course": "Operating Systems", "title": "Linux lab report", "due_date": "2026-10-20", "status": "pending", "estimated_minutes": 90},
+    {"course": "Digital Systems", "title": "Counter simulation", "due_date": "2026-10-21", "status": "pending", "estimated_minutes": 120},
+    {"course": "Probability and Statistics", "title": "Practice quiz", "due_date": "2026-10-23", "status": "pending", "estimated_minutes": 60},
+    {"course": "Operating Systems", "title": "Shell basics", "due_date": "2026-10-15", "status": "done", "estimated_minutes": 45}
+  ]
+}
